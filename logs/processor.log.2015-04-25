@@ -1,0 +1,728 @@
+2015-04-25 09:40:45.860 [main] INFO  processor.config.Configuration - Load properties file: prop=config-train.properties
+2015-04-25 09:46:56.389 [main] INFO  processor.config.Configuration - Load properties file: prop=config-train.properties
+2015-04-25 09:49:51.975 [main] INFO  processor.common.FDMetadata - Train dataset file extension: name=.txt
+2015-04-25 09:53:00.738 [main] INFO  processor.common.FDMetadata - Train dataset file extension: name=.txt
+2015-04-25 09:55:53.253 [main] INFO  processor.common.FDMetadata - Train dataset file extension: name=.txt
+2015-04-25 10:26:31.135 [main] INFO  processor.config.Configuration - Load properties file: prop=config-train.properties
+2015-04-25 10:26:31.139 [main] INFO  processor.common.FDMetadata - Train dataset file extension: name=.txt
+2015-04-25 10:26:31.140 [main] INFO  processor.common.FDMetadata - Vector input root directory: inputRootDir=dataset\SogouC\Sample
+2015-04-25 10:26:31.140 [main] INFO  processor.common.FDMetadata - Vector output directory: outputDir=output\vector
+2015-04-25 10:26:31.141 [main] INFO  processor.common.FDMetadata - Vector output file: outputFile=train.txt
+2015-04-25 10:29:08.462 [main] INFO  processor.component.DocumentWordsCollector - Analyzer class name: class=org.me.document.processor.analyzer.IctclasAnalyzer
+2015-04-25 10:35:20.837 [main] INFO  processor.component.DocumentWordsCollector - Analyzer class name: class=org.me.document.processor.analyzer.IctclasAnalyzer
+2015-04-25 10:35:35.335 [main] INFO  processor.component.DocumentWordsCollector - Load filter classes: classNames=org.me.document.processor.filter.LexicalCategoryFilter,org.me.document.processor.filter.SingleWordTermFilter,org.me.document.processor.filter.StopwordsTermFilter
+2015-04-25 10:35:39.677 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.LexicalCategoryFilter@224c47db
+2015-04-25 10:35:42.200 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.SingleWordTermFilter@132789d2
+2015-04-25 10:35:45.468 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.StopwordsTermFilter@34d507e9
+2015-04-25 10:38:04.321 [main] INFO  processor.component.DocumentWordsCollector - Analyzer class name: class=org.me.document.processor.analyzer.IctclasAnalyzer
+2015-04-25 10:38:05.477 [main] INFO  processor.component.DocumentWordsCollector - Load filter classes: classNames=org.me.document.processor.filter.LexicalCategoryFilter,org.me.document.processor.filter.SingleWordTermFilter,org.me.document.processor.filter.StopwordsTermFilter
+2015-04-25 10:38:07.211 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.LexicalCategoryFilter@4bf54c5f
+2015-04-25 10:38:08.407 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.SingleWordTermFilter@49f4bcf7
+2015-04-25 10:38:10.826 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.StopwordsTermFilter@68302e67
+2015-04-25 10:46:01.362 [main] INFO  processor.config.Configuration - Load properties file: prop=config-train.properties
+2015-04-25 10:46:01.363 [main] INFO  processor.common.FDMetadata - Train dataset file extension: name=.txt
+2015-04-25 10:46:01.363 [main] INFO  processor.common.FDMetadata - Vector input root directory: inputRootDir=dataset\SogouC\Sample
+2015-04-25 10:46:01.364 [main] INFO  processor.common.FDMetadata - Vector output directory: outputDir=output\vector
+2015-04-25 10:46:01.364 [main] INFO  processor.common.FDMetadata - Vector output file: outputFile=train.txt
+2015-04-25 10:46:05.607 [main] INFO  processor.component.DocumentWordsCollector - Analyzer class name: class=org.me.document.processor.analyzer.IctclasAnalyzer
+2015-04-25 10:46:09.033 [main] INFO  processor.component.DocumentWordsCollector - Load filter classes: classNames=org.me.document.processor.filter.LexicalCategoryFilter,org.me.document.processor.filter.SingleWordTermFilter,org.me.document.processor.filter.StopwordsTermFilter
+2015-04-25 10:46:09.034 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.LexicalCategoryFilter@5253c3f5
+2015-04-25 10:46:09.034 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.SingleWordTermFilter@7966340c
+2015-04-25 10:46:09.034 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.StopwordsTermFilter@24e33e18
+2015-04-25 10:47:42.845 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000007
+2015-04-25 10:51:17.193 [main] INFO  processor.config.Configuration - Load properties file: prop=config-train.properties
+2015-04-25 10:51:17.194 [main] INFO  processor.common.FDMetadata - Train dataset file extension: name=.txt
+2015-04-25 10:51:17.194 [main] INFO  processor.common.FDMetadata - Vector input root directory: inputRootDir=dataset\SogouC\Sample
+2015-04-25 10:51:17.194 [main] INFO  processor.common.FDMetadata - Vector output directory: outputDir=output\vector
+2015-04-25 10:51:17.194 [main] INFO  processor.common.FDMetadata - Vector output file: outputFile=train.txt
+2015-04-25 10:51:19.601 [main] INFO  processor.component.DocumentWordsCollector - Analyzer class name: class=org.me.document.processor.analyzer.IctclasAnalyzer
+2015-04-25 10:51:19.602 [main] INFO  processor.component.DocumentWordsCollector - Load filter classes: classNames=org.me.document.processor.filter.LexicalCategoryFilter,org.me.document.processor.filter.SingleWordTermFilter,org.me.document.processor.filter.StopwordsTermFilter
+2015-04-25 10:51:19.602 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.LexicalCategoryFilter@34883357
+2015-04-25 10:51:19.602 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.SingleWordTermFilter@59e2afb2
+2015-04-25 10:51:19.603 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.StopwordsTermFilter@317cfd38
+2015-04-25 10:51:28.026 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000007
+2015-04-25 10:51:28.048 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000007, docCount=10
+2015-04-25 10:51:28.048 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000008
+2015-04-25 10:51:28.068 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000008, docCount=10
+2015-04-25 10:51:28.069 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000010
+2015-04-25 10:51:28.077 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000010, docCount=10
+2015-04-25 10:51:28.077 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000013
+2015-04-25 10:51:28.090 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000013, docCount=10
+2015-04-25 10:51:28.090 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000014
+2015-04-25 10:51:28.103 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000014, docCount=10
+2015-04-25 10:51:28.103 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000016
+2015-04-25 10:51:28.114 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000016, docCount=10
+2015-04-25 10:51:28.114 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000020
+2015-04-25 10:51:28.127 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000020, docCount=10
+2015-04-25 10:51:28.127 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000022
+2015-04-25 10:51:28.137 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000022, docCount=10
+2015-04-25 10:51:28.137 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000023
+2015-04-25 10:51:28.145 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000023, docCount=10
+2015-04-25 10:51:28.145 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000024
+2015-04-25 10:51:28.169 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000024, docCount=10
+2015-04-25 10:51:28.169 [main] INFO  processor.component.BasicInformationCollector - Total documents: totalCount= 100
+2015-04-25 10:51:46.026 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000007
+2015-04-25 10:51:59.505 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 10:52:21.917 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\10.txt
+2015-04-25 11:01:13.890 [main] INFO  processor.config.Configuration - Load properties file: prop=config-train.properties
+2015-04-25 11:01:13.891 [main] INFO  processor.common.FDMetadata - Train dataset file extension: name=.txt
+2015-04-25 11:01:13.891 [main] INFO  processor.common.FDMetadata - Vector input root directory: inputRootDir=dataset\SogouC\Sample
+2015-04-25 11:01:13.891 [main] INFO  processor.common.FDMetadata - Vector output directory: outputDir=output\vector
+2015-04-25 11:01:13.891 [main] INFO  processor.common.FDMetadata - Vector output file: outputFile=train.txt
+2015-04-25 11:01:14.778 [main] INFO  processor.component.DocumentWordsCollector - Analyzer class name: class=org.me.document.processor.analyzer.IctclasAnalyzer
+2015-04-25 11:01:14.778 [main] INFO  processor.component.DocumentWordsCollector - Load filter classes: classNames=org.me.document.processor.filter.LexicalCategoryFilter,org.me.document.processor.filter.SingleWordTermFilter,org.me.document.processor.filter.StopwordsTermFilter
+2015-04-25 11:01:14.778 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.LexicalCategoryFilter@55c79dfc
+2015-04-25 11:01:14.779 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.SingleWordTermFilter@24553763
+2015-04-25 11:01:14.779 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.StopwordsTermFilter@56a75737
+2015-04-25 11:01:19.682 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000007
+2015-04-25 11:01:19.682 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000007, docCount=10
+2015-04-25 11:01:19.682 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000008
+2015-04-25 11:01:19.683 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000008, docCount=10
+2015-04-25 11:01:19.683 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000010
+2015-04-25 11:01:19.683 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000010, docCount=10
+2015-04-25 11:01:19.684 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000013
+2015-04-25 11:01:19.684 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000013, docCount=10
+2015-04-25 11:01:19.684 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000014
+2015-04-25 11:01:19.684 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000014, docCount=10
+2015-04-25 11:01:19.685 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000016
+2015-04-25 11:01:19.685 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000016, docCount=10
+2015-04-25 11:01:19.685 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000020
+2015-04-25 11:01:19.685 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000020, docCount=10
+2015-04-25 11:01:19.685 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000022
+2015-04-25 11:01:19.685 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000022, docCount=10
+2015-04-25 11:01:19.686 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000023
+2015-04-25 11:01:19.686 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000023, docCount=10
+2015-04-25 11:01:19.686 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000024
+2015-04-25 11:01:19.686 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000024, docCount=10
+2015-04-25 11:01:19.686 [main] INFO  processor.component.BasicInformationCollector - Total documents: totalCount= 100
+2015-04-25 11:01:22.130 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000007
+2015-04-25 11:01:22.130 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 11:01:22.131 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\10.txt
+2015-04-25 11:01:24.106 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\11.txt
+2015-04-25 11:01:26.858 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\12.txt
+2015-04-25 11:01:30.066 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\13.txt
+2015-04-25 11:01:30.181 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\14.txt
+2015-04-25 11:01:30.347 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\15.txt
+2015-04-25 11:01:30.352 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\16.txt
+2015-04-25 11:01:30.558 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\17.txt
+2015-04-25 11:01:30.579 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\18.txt
+2015-04-25 11:01:30.631 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\19.txt
+2015-04-25 11:01:30.665 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 11:02:12.050 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000008
+2015-04-25 11:02:12.051 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 11:02:12.051 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\10.txt
+2015-04-25 11:02:12.130 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\11.txt
+2015-04-25 11:02:12.134 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\12.txt
+2015-04-25 11:02:12.143 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\13.txt
+2015-04-25 11:02:12.163 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\14.txt
+2015-04-25 11:02:12.177 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\15.txt
+2015-04-25 11:02:12.180 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\16.txt
+2015-04-25 11:02:12.183 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\17.txt
+2015-04-25 11:02:12.216 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\18.txt
+2015-04-25 11:02:12.243 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\19.txt
+2015-04-25 11:02:12.246 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 11:02:12.246 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000010
+2015-04-25 11:02:12.246 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 11:02:12.246 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\10.txt
+2015-04-25 11:02:12.248 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\11.txt
+2015-04-25 11:02:12.251 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\12.txt
+2015-04-25 11:02:12.268 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\13.txt
+2015-04-25 11:02:12.311 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\14.txt
+2015-04-25 11:02:12.318 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\15.txt
+2015-04-25 11:02:12.334 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\16.txt
+2015-04-25 11:02:12.340 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\17.txt
+2015-04-25 11:02:12.353 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\18.txt
+2015-04-25 11:02:12.354 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\19.txt
+2015-04-25 11:02:12.369 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 11:02:12.369 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000013
+2015-04-25 11:02:12.369 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 11:02:12.369 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\10.txt
+2015-04-25 11:02:12.401 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\11.txt
+2015-04-25 11:02:12.432 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\12.txt
+2015-04-25 11:02:12.437 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\13.txt
+2015-04-25 11:02:12.440 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\14.txt
+2015-04-25 11:02:12.457 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\15.txt
+2015-04-25 11:02:12.460 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\16.txt
+2015-04-25 11:02:12.478 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\17.txt
+2015-04-25 11:02:12.493 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\18.txt
+2015-04-25 11:02:12.529 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\19.txt
+2015-04-25 11:02:12.548 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 11:02:12.549 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000014
+2015-04-25 11:02:12.549 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 11:02:12.549 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\10.txt
+2015-04-25 11:02:12.560 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\11.txt
+2015-04-25 11:02:12.593 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\12.txt
+2015-04-25 11:02:12.630 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\13.txt
+2015-04-25 11:02:12.695 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\14.txt
+2015-04-25 11:02:12.728 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\15.txt
+2015-04-25 11:02:12.747 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\16.txt
+2015-04-25 11:02:12.767 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\17.txt
+2015-04-25 11:02:12.781 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\18.txt
+2015-04-25 11:02:12.792 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\19.txt
+2015-04-25 11:02:12.805 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 11:02:12.805 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000016
+2015-04-25 11:02:12.805 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 11:02:12.805 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\10.txt
+2015-04-25 11:02:12.822 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\11.txt
+2015-04-25 11:02:12.824 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\12.txt
+2015-04-25 11:02:12.856 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\13.txt
+2015-04-25 11:02:12.889 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\14.txt
+2015-04-25 11:02:12.907 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\15.txt
+2015-04-25 11:02:12.927 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\16.txt
+2015-04-25 11:02:12.946 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\17.txt
+2015-04-25 11:02:12.955 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\18.txt
+2015-04-25 11:02:12.971 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\19.txt
+2015-04-25 11:02:12.987 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 11:02:12.987 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000020
+2015-04-25 11:02:12.987 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 11:02:12.987 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\10.txt
+2015-04-25 11:02:13.005 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\11.txt
+2015-04-25 11:02:13.036 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\12.txt
+2015-04-25 11:02:13.064 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\13.txt
+2015-04-25 11:02:13.085 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\14.txt
+2015-04-25 11:02:13.091 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\15.txt
+2015-04-25 11:02:13.112 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\16.txt
+2015-04-25 11:02:13.128 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\17.txt
+2015-04-25 11:02:13.157 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\18.txt
+2015-04-25 11:02:13.202 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\19.txt
+2015-04-25 11:02:13.218 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 11:02:13.218 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000022
+2015-04-25 11:02:13.219 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 11:02:13.219 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\10.txt
+2015-04-25 11:02:13.221 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\11.txt
+2015-04-25 11:02:13.224 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\12.txt
+2015-04-25 11:02:13.256 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\13.txt
+2015-04-25 11:02:13.273 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\14.txt
+2015-04-25 11:02:13.283 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\15.txt
+2015-04-25 11:02:13.293 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\16.txt
+2015-04-25 11:02:13.312 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\17.txt
+2015-04-25 11:02:13.320 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\18.txt
+2015-04-25 11:02:13.326 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\19.txt
+2015-04-25 11:02:13.337 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 11:02:13.337 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000023
+2015-04-25 11:02:13.337 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 11:02:13.337 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\10.txt
+2015-04-25 11:02:13.362 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\11.txt
+2015-04-25 11:02:13.391 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\12.txt
+2015-04-25 11:02:13.411 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\13.txt
+2015-04-25 11:02:13.430 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\14.txt
+2015-04-25 11:02:13.434 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\15.txt
+2015-04-25 11:02:13.448 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\16.txt
+2015-04-25 11:02:13.459 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\17.txt
+2015-04-25 11:02:13.484 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\18.txt
+2015-04-25 11:02:13.489 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\19.txt
+2015-04-25 11:02:13.519 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 11:02:13.519 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000024
+2015-04-25 11:02:13.519 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 11:02:13.519 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\10.txt
+2015-04-25 11:02:13.559 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\11.txt
+2015-04-25 11:02:13.586 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\12.txt
+2015-04-25 11:02:13.616 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\13.txt
+2015-04-25 11:02:13.640 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\14.txt
+2015-04-25 11:02:13.685 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\15.txt
+2015-04-25 11:02:13.704 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\16.txt
+2015-04-25 11:02:13.721 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\17.txt
+2015-04-25 11:02:13.733 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\18.txt
+2015-04-25 11:02:13.772 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\19.txt
+2015-04-25 11:02:13.776 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 11:02:13.776 [main] INFO  processor.component.DocumentWordsCollector - STAT: totalDocCount=100
+2015-04-25 11:02:13.776 [main] INFO  processor.component.DocumentWordsCollector - STAT: labelCount=10
+2015-04-25 11:02:13.776 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000022, docCount=10
+2015-04-25 11:02:13.776 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000013, docCount=10
+2015-04-25 11:02:13.776 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000020, docCount=10
+2015-04-25 11:02:13.776 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000014, docCount=10
+2015-04-25 11:02:13.776 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000024, docCount=10
+2015-04-25 11:02:13.777 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000023, docCount=10
+2015-04-25 11:02:13.777 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000010, docCount=10
+2015-04-25 11:02:13.777 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000008, docCount=10
+2015-04-25 11:02:13.777 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000016, docCount=10
+2015-04-25 11:02:13.777 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000007, docCount=10
+2015-04-25 11:03:02.064 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000007
+2015-04-25 11:15:56.419 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000008
+2015-04-25 11:15:56.420 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000010
+2015-04-25 11:15:56.421 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000013
+2015-04-25 11:15:56.423 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000014
+2015-04-25 11:15:56.424 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000016
+2015-04-25 11:15:56.425 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000020
+2015-04-25 11:15:56.489 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000022
+2015-04-25 11:15:56.490 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000023
+2015-04-25 11:15:56.490 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000024
+2015-04-25 11:17:38.127 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000022, termCount=117
+2015-04-25 11:49:11.465 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000013, termCount=117
+2015-04-25 11:49:48.268 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000020, termCount=117
+2015-04-25 11:49:49.284 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000014, termCount=117
+2015-04-25 11:49:49.988 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000024, termCount=117
+2015-04-25 11:49:50.628 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000023, termCount=117
+2015-04-25 11:49:51.213 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000010, termCount=117
+2015-04-25 11:49:51.813 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000008, termCount=117
+2015-04-25 11:49:52.476 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000007, termCount=117
+2015-04-25 11:49:53.156 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000016, termCount=117
+2015-04-25 12:00:04.918 [main] INFO  component.test.OutputtingQuantizedTestData - Finished: outputVectorFile=train.txt
+2015-04-25 12:00:04.918 [main] INFO  component.train.OutputtingQuantizedTrainData - Output label mapping file: labelFile=output\vector\labels.txt
+2015-04-25 12:10:09.697 [main] INFO  processor.config.Configuration - Load properties file: prop=config-train.properties
+2015-04-25 12:10:09.701 [main] INFO  processor.common.FDMetadata - Train dataset file extension: name=.txt
+2015-04-25 12:10:09.702 [main] INFO  processor.common.FDMetadata - Vector input root directory: inputRootDir=dataset\SogouC\Sample
+2015-04-25 12:10:09.702 [main] INFO  processor.common.FDMetadata - Vector output directory: outputDir=output\vector
+2015-04-25 12:10:09.702 [main] INFO  processor.common.FDMetadata - Vector output file: outputFile=train.txt
+2015-04-25 12:10:56.094 [main] INFO  processor.component.DocumentWordsCollector - Analyzer class name: class=org.me.document.processor.analyzer.IctclasAnalyzer
+2015-04-25 12:11:16.404 [main] INFO  processor.component.DocumentWordsCollector - Load filter classes: classNames=org.me.document.processor.filter.LexicalCategoryFilter,org.me.document.processor.filter.SingleWordTermFilter,org.me.document.processor.filter.StopwordsTermFilter
+2015-04-25 12:11:27.838 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.LexicalCategoryFilter@6e84cc09
+2015-04-25 12:11:27.840 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.SingleWordTermFilter@75982fc1
+2015-04-25 12:11:27.841 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.StopwordsTermFilter@2802bd3a
+2015-04-25 12:12:48.101 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000007
+2015-04-25 12:12:48.104 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000007, docCount=10
+2015-04-25 12:12:48.104 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000008
+2015-04-25 12:12:48.104 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000008, docCount=10
+2015-04-25 12:12:48.104 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000010
+2015-04-25 12:12:48.105 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000010, docCount=10
+2015-04-25 12:12:48.105 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000013
+2015-04-25 12:12:48.105 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000013, docCount=10
+2015-04-25 12:12:48.105 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000014
+2015-04-25 12:12:48.105 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000014, docCount=10
+2015-04-25 12:12:48.105 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000016
+2015-04-25 12:12:48.106 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000016, docCount=10
+2015-04-25 12:12:48.106 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000020
+2015-04-25 12:12:48.106 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000020, docCount=10
+2015-04-25 12:12:48.106 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000022
+2015-04-25 12:12:48.107 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000022, docCount=10
+2015-04-25 12:12:48.107 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000023
+2015-04-25 12:12:48.107 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000023, docCount=10
+2015-04-25 12:12:48.107 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000024
+2015-04-25 12:12:48.107 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000024, docCount=10
+2015-04-25 12:12:48.108 [main] INFO  processor.component.BasicInformationCollector - Total documents: totalCount= 100
+2015-04-25 12:13:07.869 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000007
+2015-04-25 12:13:07.871 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:13:07.871 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\10.txt
+2015-04-25 12:13:07.954 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\11.txt
+2015-04-25 12:13:07.971 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\12.txt
+2015-04-25 12:13:08.051 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\13.txt
+2015-04-25 12:13:08.129 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\14.txt
+2015-04-25 12:13:08.283 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\15.txt
+2015-04-25 12:13:08.287 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\16.txt
+2015-04-25 12:13:08.479 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\17.txt
+2015-04-25 12:13:08.496 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\18.txt
+2015-04-25 12:13:08.548 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\19.txt
+2015-04-25 12:13:08.553 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:13:08.553 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000008
+2015-04-25 12:13:08.554 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:13:08.554 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\10.txt
+2015-04-25 12:13:08.570 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\11.txt
+2015-04-25 12:13:08.573 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\12.txt
+2015-04-25 12:13:08.581 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\13.txt
+2015-04-25 12:13:08.588 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\14.txt
+2015-04-25 12:13:08.593 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\15.txt
+2015-04-25 12:13:08.595 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\16.txt
+2015-04-25 12:13:08.598 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\17.txt
+2015-04-25 12:13:08.618 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\18.txt
+2015-04-25 12:13:08.637 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\19.txt
+2015-04-25 12:13:08.639 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:13:08.639 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000010
+2015-04-25 12:13:08.639 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:13:08.639 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\10.txt
+2015-04-25 12:13:08.640 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\11.txt
+2015-04-25 12:13:08.643 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\12.txt
+2015-04-25 12:13:08.645 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\13.txt
+2015-04-25 12:13:08.677 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\14.txt
+2015-04-25 12:13:08.681 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\15.txt
+2015-04-25 12:13:08.690 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\16.txt
+2015-04-25 12:13:08.694 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\17.txt
+2015-04-25 12:13:08.698 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\18.txt
+2015-04-25 12:13:08.699 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\19.txt
+2015-04-25 12:13:08.707 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:13:08.707 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000013
+2015-04-25 12:13:08.708 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:13:08.708 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\10.txt
+2015-04-25 12:13:08.728 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\11.txt
+2015-04-25 12:13:08.749 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\12.txt
+2015-04-25 12:13:08.755 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\13.txt
+2015-04-25 12:13:08.757 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\14.txt
+2015-04-25 12:13:08.761 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\15.txt
+2015-04-25 12:13:08.763 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\16.txt
+2015-04-25 12:13:08.772 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\17.txt
+2015-04-25 12:13:08.777 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\18.txt
+2015-04-25 12:13:08.808 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\19.txt
+2015-04-25 12:13:08.816 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:13:08.816 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000014
+2015-04-25 12:13:08.816 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:13:08.816 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\10.txt
+2015-04-25 12:13:08.822 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\11.txt
+2015-04-25 12:13:08.846 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\12.txt
+2015-04-25 12:13:08.865 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\13.txt
+2015-04-25 12:13:08.875 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\14.txt
+2015-04-25 12:13:08.898 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\15.txt
+2015-04-25 12:13:08.910 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\16.txt
+2015-04-25 12:13:08.915 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\17.txt
+2015-04-25 12:13:08.921 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\18.txt
+2015-04-25 12:13:08.925 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\19.txt
+2015-04-25 12:13:08.931 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:13:08.931 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000016
+2015-04-25 12:13:08.931 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:13:08.931 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\10.txt
+2015-04-25 12:13:08.940 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\11.txt
+2015-04-25 12:13:08.944 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\12.txt
+2015-04-25 12:13:08.970 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\13.txt
+2015-04-25 12:13:08.983 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\14.txt
+2015-04-25 12:13:08.987 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\15.txt
+2015-04-25 12:13:08.996 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\16.txt
+2015-04-25 12:13:09.010 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\17.txt
+2015-04-25 12:13:09.013 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\18.txt
+2015-04-25 12:13:09.023 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\19.txt
+2015-04-25 12:13:09.026 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:13:09.026 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000020
+2015-04-25 12:13:09.027 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:13:09.027 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\10.txt
+2015-04-25 12:13:09.039 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\11.txt
+2015-04-25 12:13:09.061 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\12.txt
+2015-04-25 12:13:09.072 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\13.txt
+2015-04-25 12:13:09.093 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\14.txt
+2015-04-25 12:13:09.099 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\15.txt
+2015-04-25 12:13:09.108 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\16.txt
+2015-04-25 12:13:09.128 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\17.txt
+2015-04-25 12:13:09.147 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\18.txt
+2015-04-25 12:13:09.181 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\19.txt
+2015-04-25 12:13:09.190 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:13:09.190 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000022
+2015-04-25 12:13:09.191 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:13:09.191 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\10.txt
+2015-04-25 12:13:09.193 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\11.txt
+2015-04-25 12:13:09.194 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\12.txt
+2015-04-25 12:13:09.204 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\13.txt
+2015-04-25 12:13:09.216 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\14.txt
+2015-04-25 12:13:09.221 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\15.txt
+2015-04-25 12:13:09.225 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\16.txt
+2015-04-25 12:13:09.236 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\17.txt
+2015-04-25 12:13:09.241 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\18.txt
+2015-04-25 12:13:09.245 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\19.txt
+2015-04-25 12:13:09.248 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:13:09.248 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000023
+2015-04-25 12:13:09.248 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:13:09.249 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\10.txt
+2015-04-25 12:13:09.268 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\11.txt
+2015-04-25 12:13:09.288 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\12.txt
+2015-04-25 12:13:09.293 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\13.txt
+2015-04-25 12:13:09.301 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\14.txt
+2015-04-25 12:13:09.304 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\15.txt
+2015-04-25 12:13:09.313 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\16.txt
+2015-04-25 12:13:09.318 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\17.txt
+2015-04-25 12:13:09.329 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\18.txt
+2015-04-25 12:13:09.333 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\19.txt
+2015-04-25 12:13:09.339 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:13:09.339 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000024
+2015-04-25 12:13:09.340 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:13:09.340 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\10.txt
+2015-04-25 12:13:09.344 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\11.txt
+2015-04-25 12:13:09.360 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\12.txt
+2015-04-25 12:13:09.370 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\13.txt
+2015-04-25 12:13:09.382 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\14.txt
+2015-04-25 12:13:09.420 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\15.txt
+2015-04-25 12:13:09.423 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\16.txt
+2015-04-25 12:13:09.426 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\17.txt
+2015-04-25 12:13:09.432 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\18.txt
+2015-04-25 12:13:09.459 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\19.txt
+2015-04-25 12:13:09.462 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:13:09.462 [main] INFO  processor.component.DocumentWordsCollector - STAT: totalDocCount=100
+2015-04-25 12:13:09.462 [main] INFO  processor.component.DocumentWordsCollector - STAT: labelCount=10
+2015-04-25 12:13:09.462 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000022, docCount=10
+2015-04-25 12:13:09.462 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000013, docCount=10
+2015-04-25 12:13:09.462 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000020, docCount=10
+2015-04-25 12:13:09.462 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000014, docCount=10
+2015-04-25 12:13:09.462 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000024, docCount=10
+2015-04-25 12:13:09.462 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000023, docCount=10
+2015-04-25 12:13:09.462 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000010, docCount=10
+2015-04-25 12:13:09.462 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000008, docCount=10
+2015-04-25 12:13:09.462 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000016, docCount=10
+2015-04-25 12:13:09.462 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000007, docCount=10
+2015-04-25 12:13:09.462 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000007
+2015-04-25 12:13:09.467 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000008
+2015-04-25 12:13:09.471 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000010
+2015-04-25 12:13:09.475 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000013
+2015-04-25 12:13:09.478 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000014
+2015-04-25 12:13:09.482 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000016
+2015-04-25 12:13:09.485 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000020
+2015-04-25 12:13:09.489 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000022
+2015-04-25 12:13:09.492 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000023
+2015-04-25 12:13:09.495 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000024
+2015-04-25 12:14:31.553 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000022, termCount=117
+2015-04-25 12:18:06.773 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000013, termCount=117
+2015-04-25 12:18:06.774 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000020, termCount=117
+2015-04-25 12:18:06.774 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000014, termCount=117
+2015-04-25 12:18:06.774 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000024, termCount=117
+2015-04-25 12:18:06.775 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000023, termCount=117
+2015-04-25 12:18:06.777 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000010, termCount=117
+2015-04-25 12:18:06.778 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000008, termCount=117
+2015-04-25 12:18:06.778 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000007, termCount=117
+2015-04-25 12:18:06.778 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000016, termCount=117
+2015-04-25 12:28:58.548 [main] INFO  component.test.OutputtingQuantizedTestData - Finished: outputVectorFile=train.txt
+2015-04-25 12:28:58.548 [main] INFO  component.train.OutputtingQuantizedTrainData - Output label mapping file: labelFile=output\vector\labels.txt
+2015-04-25 12:31:06.379 [main] INFO  processor.config.Configuration - Load properties file: prop=config-train.properties
+2015-04-25 12:31:06.381 [main] INFO  processor.common.FDMetadata - Train dataset file extension: name=.txt
+2015-04-25 12:31:06.382 [main] INFO  processor.common.FDMetadata - Vector input root directory: inputRootDir=dataset\SogouC\Sample
+2015-04-25 12:31:06.382 [main] INFO  processor.common.FDMetadata - Vector output directory: outputDir=output\vector
+2015-04-25 12:31:06.382 [main] INFO  processor.common.FDMetadata - Vector output file: outputFile=train.txt
+2015-04-25 12:31:07.014 [main] INFO  processor.component.DocumentWordsCollector - Analyzer class name: class=org.me.document.processor.analyzer.IctclasAnalyzer
+2015-04-25 12:31:07.034 [main] INFO  processor.component.DocumentWordsCollector - Load filter classes: classNames=org.me.document.processor.filter.LexicalCategoryFilter,org.me.document.processor.filter.SingleWordTermFilter,org.me.document.processor.filter.StopwordsTermFilter
+2015-04-25 12:31:07.036 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.LexicalCategoryFilter@26b4e29b
+2015-04-25 12:31:07.037 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.SingleWordTermFilter@11a06e38
+2015-04-25 12:31:07.037 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.StopwordsTermFilter@245e13ad
+2015-04-25 12:31:10.318 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000007
+2015-04-25 12:31:10.320 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000007, docCount=10
+2015-04-25 12:31:10.321 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000008
+2015-04-25 12:31:10.321 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000008, docCount=10
+2015-04-25 12:31:10.321 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000010
+2015-04-25 12:31:10.321 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000010, docCount=10
+2015-04-25 12:31:10.322 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000013
+2015-04-25 12:31:10.322 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000013, docCount=10
+2015-04-25 12:31:10.322 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000014
+2015-04-25 12:31:10.322 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000014, docCount=10
+2015-04-25 12:31:10.323 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000016
+2015-04-25 12:31:10.324 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000016, docCount=10
+2015-04-25 12:31:10.324 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000020
+2015-04-25 12:31:10.324 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000020, docCount=10
+2015-04-25 12:31:10.324 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000022
+2015-04-25 12:31:10.325 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000022, docCount=10
+2015-04-25 12:31:10.325 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000023
+2015-04-25 12:31:10.325 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000023, docCount=10
+2015-04-25 12:31:10.325 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000024
+2015-04-25 12:31:10.325 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000024, docCount=10
+2015-04-25 12:31:10.325 [main] INFO  processor.component.BasicInformationCollector - Total documents: totalCount= 100
+2015-04-25 12:31:11.398 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000007
+2015-04-25 12:31:11.402 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:31:11.402 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\10.txt
+2015-04-25 12:31:11.491 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\11.txt
+2015-04-25 12:31:11.507 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\12.txt
+2015-04-25 12:31:11.583 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\13.txt
+2015-04-25 12:31:11.657 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\14.txt
+2015-04-25 12:31:11.803 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\15.txt
+2015-04-25 12:31:11.808 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\16.txt
+2015-04-25 12:31:11.995 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\17.txt
+2015-04-25 12:31:12.012 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\18.txt
+2015-04-25 12:31:12.063 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\19.txt
+2015-04-25 12:31:12.068 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:31:12.068 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000008
+2015-04-25 12:31:12.069 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:31:12.069 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\10.txt
+2015-04-25 12:31:12.084 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\11.txt
+2015-04-25 12:31:12.087 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\12.txt
+2015-04-25 12:31:12.094 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\13.txt
+2015-04-25 12:31:12.102 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\14.txt
+2015-04-25 12:31:12.108 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\15.txt
+2015-04-25 12:31:12.110 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\16.txt
+2015-04-25 12:31:12.112 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\17.txt
+2015-04-25 12:31:12.132 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\18.txt
+2015-04-25 12:31:12.151 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000008\19.txt
+2015-04-25 12:31:12.153 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:31:12.153 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000010
+2015-04-25 12:31:12.153 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:31:12.153 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\10.txt
+2015-04-25 12:31:12.154 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\11.txt
+2015-04-25 12:31:12.157 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\12.txt
+2015-04-25 12:31:12.160 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\13.txt
+2015-04-25 12:31:12.190 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\14.txt
+2015-04-25 12:31:12.194 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\15.txt
+2015-04-25 12:31:12.203 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\16.txt
+2015-04-25 12:31:12.206 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\17.txt
+2015-04-25 12:31:12.210 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\18.txt
+2015-04-25 12:31:12.211 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000010\19.txt
+2015-04-25 12:31:12.220 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:31:12.220 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000013
+2015-04-25 12:31:12.220 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:31:12.220 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\10.txt
+2015-04-25 12:31:12.240 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\11.txt
+2015-04-25 12:31:12.261 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\12.txt
+2015-04-25 12:31:12.266 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\13.txt
+2015-04-25 12:31:12.269 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\14.txt
+2015-04-25 12:31:12.272 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\15.txt
+2015-04-25 12:31:12.275 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\16.txt
+2015-04-25 12:31:12.284 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\17.txt
+2015-04-25 12:31:12.289 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\18.txt
+2015-04-25 12:31:12.318 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000013\19.txt
+2015-04-25 12:31:12.325 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:31:12.325 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000014
+2015-04-25 12:31:12.325 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:31:12.326 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\10.txt
+2015-04-25 12:31:12.331 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\11.txt
+2015-04-25 12:31:12.355 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\12.txt
+2015-04-25 12:31:12.376 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\13.txt
+2015-04-25 12:31:12.385 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\14.txt
+2015-04-25 12:31:12.407 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\15.txt
+2015-04-25 12:31:12.419 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\16.txt
+2015-04-25 12:31:12.424 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\17.txt
+2015-04-25 12:31:12.430 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\18.txt
+2015-04-25 12:31:12.434 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000014\19.txt
+2015-04-25 12:31:12.439 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:31:12.439 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000016
+2015-04-25 12:31:12.439 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:31:12.440 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\10.txt
+2015-04-25 12:31:12.448 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\11.txt
+2015-04-25 12:31:12.451 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\12.txt
+2015-04-25 12:31:12.478 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\13.txt
+2015-04-25 12:31:12.490 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\14.txt
+2015-04-25 12:31:12.494 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\15.txt
+2015-04-25 12:31:12.502 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\16.txt
+2015-04-25 12:31:12.516 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\17.txt
+2015-04-25 12:31:12.520 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\18.txt
+2015-04-25 12:31:12.529 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000016\19.txt
+2015-04-25 12:31:12.532 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:31:12.532 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000020
+2015-04-25 12:31:12.533 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:31:12.533 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\10.txt
+2015-04-25 12:31:12.545 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\11.txt
+2015-04-25 12:31:12.565 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\12.txt
+2015-04-25 12:31:12.575 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\13.txt
+2015-04-25 12:31:12.589 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\14.txt
+2015-04-25 12:31:12.595 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\15.txt
+2015-04-25 12:31:12.604 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\16.txt
+2015-04-25 12:31:12.623 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\17.txt
+2015-04-25 12:31:12.643 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\18.txt
+2015-04-25 12:31:12.674 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000020\19.txt
+2015-04-25 12:31:12.682 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:31:12.683 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000022
+2015-04-25 12:31:12.683 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:31:12.683 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\10.txt
+2015-04-25 12:31:12.685 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\11.txt
+2015-04-25 12:31:12.686 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\12.txt
+2015-04-25 12:31:12.695 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\13.txt
+2015-04-25 12:31:12.707 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\14.txt
+2015-04-25 12:31:12.711 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\15.txt
+2015-04-25 12:31:12.715 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\16.txt
+2015-04-25 12:31:12.725 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\17.txt
+2015-04-25 12:31:12.730 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\18.txt
+2015-04-25 12:31:12.734 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000022\19.txt
+2015-04-25 12:31:12.737 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:31:12.737 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000023
+2015-04-25 12:31:12.738 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:31:12.738 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\10.txt
+2015-04-25 12:31:12.757 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\11.txt
+2015-04-25 12:31:12.777 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\12.txt
+2015-04-25 12:31:12.783 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\13.txt
+2015-04-25 12:31:12.790 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\14.txt
+2015-04-25 12:31:12.793 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\15.txt
+2015-04-25 12:31:12.803 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\16.txt
+2015-04-25 12:31:12.808 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\17.txt
+2015-04-25 12:31:12.819 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\18.txt
+2015-04-25 12:31:12.824 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000023\19.txt
+2015-04-25 12:31:12.829 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:31:12.829 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000024
+2015-04-25 12:31:12.829 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:31:12.829 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\10.txt
+2015-04-25 12:31:12.833 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\11.txt
+2015-04-25 12:31:12.848 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\12.txt
+2015-04-25 12:31:12.858 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\13.txt
+2015-04-25 12:31:12.869 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\14.txt
+2015-04-25 12:31:12.907 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\15.txt
+2015-04-25 12:31:12.910 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\16.txt
+2015-04-25 12:31:12.914 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\17.txt
+2015-04-25 12:31:12.918 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\18.txt
+2015-04-25 12:31:12.946 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000024\19.txt
+2015-04-25 12:31:12.949 [main] INFO  processor.component.DocumentWordsCollector - Analyzed files: count=10
+2015-04-25 12:31:12.949 [main] INFO  processor.component.DocumentWordsCollector - STAT: totalDocCount=100
+2015-04-25 12:31:12.949 [main] INFO  processor.component.DocumentWordsCollector - STAT: labelCount=10
+2015-04-25 12:31:12.949 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000022, docCount=10
+2015-04-25 12:31:12.949 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000013, docCount=10
+2015-04-25 12:31:12.949 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000020, docCount=10
+2015-04-25 12:31:12.949 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000014, docCount=10
+2015-04-25 12:31:12.949 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000024, docCount=10
+2015-04-25 12:31:12.949 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000023, docCount=10
+2015-04-25 12:31:12.949 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000010, docCount=10
+2015-04-25 12:31:12.950 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000008, docCount=10
+2015-04-25 12:31:12.950 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000016, docCount=10
+2015-04-25 12:31:12.950 [main] INFO  processor.component.DocumentWordsCollector - STAT: label=C000007, docCount=10
+2015-04-25 12:31:12.950 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000007
+2015-04-25 12:31:12.955 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000008
+2015-04-25 12:31:12.958 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000010
+2015-04-25 12:31:12.962 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000013
+2015-04-25 12:31:12.965 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000014
+2015-04-25 12:31:12.968 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000016
+2015-04-25 12:31:12.972 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000020
+2015-04-25 12:31:12.975 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000022
+2015-04-25 12:31:12.978 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000023
+2015-04-25 12:31:12.979 [main] INFO  component.train.FeatureTermVectorSelector - Compute CHI for: label=C000024
+2015-04-25 12:31:14.511 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000022, termCount=117
+2015-04-25 12:31:14.513 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000013, termCount=117
+2015-04-25 12:31:14.513 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000020, termCount=117
+2015-04-25 12:31:14.514 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000014, termCount=117
+2015-04-25 12:31:14.514 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000024, termCount=117
+2015-04-25 12:31:14.515 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000023, termCount=117
+2015-04-25 12:31:14.515 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000010, termCount=117
+2015-04-25 12:31:14.515 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000008, termCount=117
+2015-04-25 12:31:14.516 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000007, termCount=117
+2015-04-25 12:31:14.516 [main] INFO  component.train.FeatureTermVectorSelector - Sort CHI terms for: label=C000016, termCount=117
+2015-04-25 12:31:16.692 [main] INFO  component.test.OutputtingQuantizedTestData - Finished: outputVectorFile=train.txt
+2015-04-25 12:32:46.166 [main] INFO  component.train.OutputtingQuantizedTrainData - Output label mapping file: labelFile=output\vector\labels.txt
+2015-04-25 12:33:53.136 [main] INFO  processor.config.Configuration - Load properties file: prop=config-train.properties
+2015-04-25 12:33:53.138 [main] INFO  processor.common.FDMetadata - Train dataset file extension: name=.txt
+2015-04-25 12:34:15.692 [main] INFO  processor.config.Configuration - Load properties file: prop=config-train.properties
+2015-04-25 12:34:15.694 [main] INFO  processor.common.FDMetadata - Train dataset file extension: name=.txt
+2015-04-25 12:34:15.694 [main] INFO  processor.common.FDMetadata - Vector input root directory: inputRootDir=dataset\SogouC\Sample
+2015-04-25 12:34:15.694 [main] INFO  processor.common.FDMetadata - Vector output directory: outputDir=output\vector
+2015-04-25 12:34:15.695 [main] INFO  processor.common.FDMetadata - Vector output file: outputFile=train.txt
+2015-04-25 12:34:16.790 [main] INFO  processor.component.DocumentWordsCollector - Analyzer class name: class=org.me.document.processor.analyzer.IctclasAnalyzer
+2015-04-25 12:34:16.810 [main] INFO  processor.component.DocumentWordsCollector - Load filter classes: classNames=org.me.document.processor.filter.LexicalCategoryFilter,org.me.document.processor.filter.SingleWordTermFilter,org.me.document.processor.filter.StopwordsTermFilter
+2015-04-25 12:34:16.812 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.LexicalCategoryFilter@e49d67c
+2015-04-25 12:34:16.812 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.SingleWordTermFilter@162200d5
+2015-04-25 12:34:16.813 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.StopwordsTermFilter@546c585a
+2015-04-25 12:34:22.494 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000007
+2015-04-25 12:34:22.497 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000007, docCount=10
+2015-04-25 12:34:22.497 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000008
+2015-04-25 12:34:22.497 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000008, docCount=10
+2015-04-25 12:34:22.497 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000010
+2015-04-25 12:34:22.498 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000010, docCount=10
+2015-04-25 12:34:22.498 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000013
+2015-04-25 12:34:22.498 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000013, docCount=10
+2015-04-25 12:34:22.499 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000014
+2015-04-25 12:34:22.499 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000014, docCount=10
+2015-04-25 12:34:22.499 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000016
+2015-04-25 12:34:22.499 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000016, docCount=10
+2015-04-25 12:34:22.500 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000020
+2015-04-25 12:34:22.500 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000020, docCount=10
+2015-04-25 12:34:22.500 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000022
+2015-04-25 12:34:22.501 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000022, docCount=10
+2015-04-25 12:34:22.501 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000023
+2015-04-25 12:34:22.501 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000023, docCount=10
+2015-04-25 12:34:22.501 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000024
+2015-04-25 12:34:22.501 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000024, docCount=10
+2015-04-25 12:34:22.502 [main] INFO  processor.component.BasicInformationCollector - Total documents: totalCount= 100
+2015-04-25 12:34:23.438 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000007
+2015-04-25 12:34:23.440 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:34:24.391 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\10.txt
+2015-04-25 12:34:25.278 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\11.txt
+2015-04-25 12:34:37.768 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\12.txt
+2015-04-25 12:36:47.862 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\13.txt
+2015-04-25 12:36:48.510 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\14.txt
+2015-04-25 12:36:49.246 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\15.txt
+2015-04-25 12:49:43.303 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\16.txt
+2015-04-25 12:49:44.279 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\17.txt
+2015-04-25 12:49:56.810 [main] INFO  processor.config.Configuration - Load properties file: prop=config-train.properties
+2015-04-25 12:49:56.812 [main] INFO  processor.common.FDMetadata - Train dataset file extension: name=.txt
+2015-04-25 12:49:56.813 [main] INFO  processor.common.FDMetadata - Vector input root directory: inputRootDir=dataset\SogouC\Sample
+2015-04-25 12:49:56.813 [main] INFO  processor.common.FDMetadata - Vector output directory: outputDir=output\vector
+2015-04-25 12:49:56.813 [main] INFO  processor.common.FDMetadata - Vector output file: outputFile=train.txt
+2015-04-25 12:49:57.743 [main] INFO  processor.component.DocumentWordsCollector - Analyzer class name: class=org.me.document.processor.analyzer.IctclasAnalyzer
+2015-04-25 12:49:57.763 [main] INFO  processor.component.DocumentWordsCollector - Load filter classes: classNames=org.me.document.processor.filter.LexicalCategoryFilter,org.me.document.processor.filter.SingleWordTermFilter,org.me.document.processor.filter.StopwordsTermFilter
+2015-04-25 12:49:57.765 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.LexicalCategoryFilter@e49d67c
+2015-04-25 12:49:57.765 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.SingleWordTermFilter@162200d5
+2015-04-25 12:49:57.766 [main] INFO  processor.component.DocumentWordsCollector - Added filter instance: filter=org.me.document.processor.filter.StopwordsTermFilter@546c585a
+2015-04-25 12:50:00.639 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000007
+2015-04-25 12:50:00.641 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000007, docCount=10
+2015-04-25 12:50:00.642 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000008
+2015-04-25 12:50:00.642 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000008, docCount=10
+2015-04-25 12:50:00.642 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000010
+2015-04-25 12:50:00.642 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000010, docCount=10
+2015-04-25 12:50:00.643 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000013
+2015-04-25 12:50:00.643 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000013, docCount=10
+2015-04-25 12:50:00.643 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000014
+2015-04-25 12:50:00.643 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000014, docCount=10
+2015-04-25 12:50:00.643 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000016
+2015-04-25 12:50:00.643 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000016, docCount=10
+2015-04-25 12:50:00.645 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000020
+2015-04-25 12:50:00.645 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000020, docCount=10
+2015-04-25 12:50:00.646 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000022
+2015-04-25 12:50:00.646 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000022, docCount=10
+2015-04-25 12:50:00.646 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000023
+2015-04-25 12:50:00.646 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000023, docCount=10
+2015-04-25 12:50:00.646 [main] INFO  processor.component.BasicInformationCollector - Add label: label=C000024
+2015-04-25 12:50:00.646 [main] INFO  processor.component.BasicInformationCollector - Put document count: label= C000024, docCount=10
+2015-04-25 12:50:00.647 [main] INFO  processor.component.BasicInformationCollector - Total documents: totalCount= 100
+2015-04-25 12:50:01.287 [main] INFO  processor.component.DocumentWordsCollector - Collect words for: label=C000007
+2015-04-25 12:50:01.289 [main] INFO  processor.component.DocumentWordsCollector - Prepare to analyze 10 files.
+2015-04-25 12:50:05.666 [main] INFO  processor.analyzer.IctclasAnalyzer - Process document: file=D:\情感分析\document-processor-master\dataset\SogouC\Sample\C000007\10.txt
